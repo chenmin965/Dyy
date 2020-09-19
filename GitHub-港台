@@ -41,9 +41,6 @@ ViuTV6,http://61.238.6.49:8000/bysid/96
 澳門資讯4,http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 爆谷台,https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
 翡翠台2,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才財經台2,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-耀才财经,http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
 阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 香港卫视2,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视3,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -58,3 +55,16 @@ ViuTV6,http://61.238.6.49:8000/bysid/96
 蕃薯tv-02,http://210.209.3.1:80/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size
 蕃薯tv-03,http://210.209.3.1:80/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
 TVB翡翠台,http://fa.vip366.top/gd/gd.php?id=xgfeicui_1500
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+东森洋片,http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+东森电影,http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+中天娱乐,http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+华视,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+民视,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+信吉电视,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
