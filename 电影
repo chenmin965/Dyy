@@ -1,4 +1,7 @@
-# Dyy
+[Group]
+groupName=轮播电影
+邵氏老电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8
+kodi电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
 黑莓动画,http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
 家庭剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
